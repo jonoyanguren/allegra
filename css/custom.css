@@ -36,6 +36,18 @@ h1 span {
 .sub-hero h2 {
   font-size: 2.6rem;
   line-height: 3rem;
+  color: black;
+  font-weight: bold;
+}
+
+.sub-hero p {
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+  color: black;
+}
+
+.services {
+  padding-top: 40px;
 }
 
 .feedback img {
