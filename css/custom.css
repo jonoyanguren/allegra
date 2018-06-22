@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+h1 span {
+  color: #dac510;
+}
+
+.allegra-text {
+  color: #dac510;
+  font-family: 'Satisfy', cursive;
+  font-size: 4rem;
+}
+
+.service-icon img {
+  width: 100%;
+}
+
+.form-div {
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-div input {
+  font-size: 21px;
+  padding: 28px;
+  width: 400px !important;
+}
+
+.sub-hero {
+  background: #dac510;
+  color: white;
+  margin: 0;
+  padding: 2% 20%;
+}
+
+.sub-hero h2 {
+  font-size: 2.6rem;
+  line-height: 3rem;
+}
+
+.feedback img {
+  width: 100%;
+  height: 860px;
+}
+
+.testimonals-text {
+  margin: 0;
+  padding: 2% 20%;
+}
+
+footer .contact-box .contact-button {
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 780px) {
+  .form-div {
+    text-align: center;
+  }
+
+  .form-div input {
+    width: 90% !important;
+  }
+}
