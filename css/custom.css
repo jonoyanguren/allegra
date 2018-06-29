@@ -59,6 +59,14 @@ h1 span {
   padding: 2% 20%;
 }
 
+.intro {
+  margin-bottom: 0 !important;
+}
+
+.contact-info {
+  margin-bottom: 25px;
+}
+
 footer .contact-box .contact-button {
   margin-top: 40px;
 }
